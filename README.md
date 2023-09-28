@@ -4,8 +4,8 @@
 
 **Sem-1**
 
-intro to c programming:
-
+Intro to C Programming:
+https://www.isical.ac.in/~mandar/programming.html
 
 Computing Lab: https://www.isical.ac.in/~pdslab/2023/index.html
 
