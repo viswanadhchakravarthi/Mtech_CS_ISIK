@@ -15,4 +15,5 @@ Discrete Math:
 https://sites.google.com/site/homepagearijitghosh/discrete-mathematics-m-tech-cs-2023-24?authuser=0
 
 Stat methods:
+
 check in Google classroom.
