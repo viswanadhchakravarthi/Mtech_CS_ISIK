@@ -4,6 +4,12 @@
 
 **Sem-1**
 
+intro to c programming:
+
+
 Computing Lab: https://www.isical.ac.in/~pdslab/2023/index.html
 
 Probability and Stoichastic Processes: https://www.isical.ac.in/~arijit/
+
+Discrete Math:
+https://sites.google.com/site/homepagearijitghosh/discrete-mathematics-m-tech-cs-2023-24?authuser=0
