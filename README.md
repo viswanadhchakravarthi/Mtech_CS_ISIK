@@ -1,3 +1,3 @@
 # Mtech_CS_ISIK
 
-Computing Lab: https://www.isical.ac.in/~pdslab/2023/index.html
+**CS_Email_ISI:** https://docs.google.com/document/d/1oE1ml15rUiTnMaY_rI--rbWrQC9uYeb2HMusRQzUmZA/edit
