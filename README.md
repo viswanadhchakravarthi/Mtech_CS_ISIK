@@ -2,14 +2,6 @@
 
 **CS_Email_ISI:** https://docs.google.com/document/d/1oE1ml15rUiTnMaY_rI--rbWrQC9uYeb2HMusRQzUmZA/edit
 
-**sem-2**
-DBMS:
-CN:
-ML1:
-IR:
-NN: 
-StatMethods(audit):
-
 **Sem-1**
 
 Intro to C Programming:
