@@ -1,14 +1,14 @@
 **sem-2**
 
-DBMS:
+DBMS: https://www.isical.ac.in/~malaybhattacharyya/Courses/DBMS/Spring2024/
 
-CN:
+CN: ?
 
-ML1:
+ML1: gClassRoom
 
-IR:
+IR: gClassRoom
 
-NN: 
+MC: mail
 
-StatMethods(audit):
+StatMethods(audit): gGroups
 
