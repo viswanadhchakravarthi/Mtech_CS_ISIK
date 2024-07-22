@@ -1,0 +1,16 @@
+name: venv_mask_detection_system # venv_tensorflow_gpu_check
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - tensorflow-gpu # tensorflow
+  - keras
+  - imutils
+  - matplotlib
+  - scipy
+  - opencv
+  - numpy
+  - scikit-learn  # Added this line
+  - pip
+
